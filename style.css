@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    list-style: none;
+
+}
+
+body{
+    background: rgba(135, 75, 192, 0.562);
+
+}
+
+header{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input, button{
+    margin: 20px 0;
+    border-radius: 4px;
+    text-align: center;
+}
+
+section{
+    padding: 20px;
+    width: 70%;
+    background: white;
+    border-radius: 5px;
+    margin: auto;
+}

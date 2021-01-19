@@ -6,7 +6,6 @@ var btn = window.document.getElementById("btn")
 
 var ul = window.document.querySelector("ul")
 
-
 btn.addEventListener("click", function () {
 
     if (input.value.length > 0) {
